@@ -1,6 +1,6 @@
-# Chap Chap API
+# Chap Chap
 
-Bienvenue dans le dépôt de l'API de prestation de service Chap Chap ! Ce projet est une application Flutter qui permet de gérer les prestations de services rapidement et efficacement.
+Ce projet est une application Flutter qui permet de gérer les prestations de services rapidement et efficacement.
 
 ## Table des matières
 
