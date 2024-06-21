@@ -6,7 +6,7 @@ Ce projet est une application Flutter qui permet de gérer les prestations de se
 
 ## Introduction
 
-Chap Chap est une API de prestation de service conçue pour simplifier la gestion des services. Cette application Flutter offre une interface utilisateur intuitive et des fonctionnalités robustes pour répondre aux besoins des utilisateurs.
+Cette application Flutter offre une interface utilisateur intuitive et des fonctionnalités robustes pour répondre aux besoins des utilisateurs.
 
 ## Fonctionnalités
 
